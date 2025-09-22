@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/6409c05c-0506-48fa-83d4-fdb0f5348106" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/6409c05c-0506-48fa-83d4-fdb0f5348106" />
 
 
 I hold a master's degree in Statistics from ETH Zürich and a bachelor degree in Mathematics from Jacobs University Bremen. I recently concluded my master thesis where I analytically compared the performance of deep learning models (Vanilla recurrent neural network, Long short-term memory network, Temporal convolutional neural network and Transformer) to that of statistical models (AR, MA, ARMA, ARIMA, SARIMA) in the one-step ahead forecasting of univariate synthetic and real time series. 
