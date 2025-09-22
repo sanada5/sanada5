@@ -9,7 +9,8 @@ I am deeply passionate about Data Science, and my diverse practical experiences 
 
 In addition, my experience as a Teaching Assistant at both ETH Zürich and Jacobs University Bremen strengthened my communication and presentation skills—essential soft skills that I consider vital for building a successful career in Data Science, which I aspire to pursue.
 
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/6409c05c-0506-48fa-83d4-fdb0f5348106" />
-
+<p align="center">
+  <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/6409c05c-0506-48fa-83d4-fdb0f5348106" />
+</p>
 
 
